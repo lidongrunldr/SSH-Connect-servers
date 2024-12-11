@@ -25,3 +25,4 @@ config文件的默认路径为/users/ldr/.ssh/config
 <p align="center">
   <img src="截屏2024-12-11 19.47.58.png" />
 </p>
+Host名可以自己取
