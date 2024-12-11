@@ -3,7 +3,7 @@
 ### **1 从vscode上下载Remote-SSH插件**
 
 ![插件](图像2024-12-11 19.32.jpg)
-
+![PyPI version](https://badge.fury.io/py/denoising-diffusion-pytorch.svg)
 
 ### **2 配置服务器文件**
 
