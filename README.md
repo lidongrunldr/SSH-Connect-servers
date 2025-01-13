@@ -2,8 +2,9 @@
 如何通过SSH远程连接服务器
 ### **1 从vscode上下载Remote-SSH插件**
 
-![插件](图像.jpg)  <!-- 这种方式没法改变图片大小，除非用mou编辑器，且图片名称中不能有空格 -->
-
+<p align="center">
+  <img src="图像.jpg" width = "400" height = "300" alt="按钮" />
+</p>
 ### **2 配置服务器文件**
 
 点击vscode左下角的按钮
